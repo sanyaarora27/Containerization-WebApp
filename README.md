@@ -5,7 +5,7 @@ I have deployed a web application in a docker container image and running that i
 
 STEPS TAKEN: 
 
-STEP 1: Activating 2 different API's i.e. Artificat Registry and Kubernetes Engine API and then activating the cloud shell. 
+STEP 1: We'll start with enabling 2 different API's i.e. Artificat Registry and Kubernetes Engine API and then activating the cloud shell. 
 STEP 2: Creating a repository and selecting a REGION for the repository.
 
 From STEP 1 & STEP 2 we will be able to store an image in Artifact Registry and deploy it from the registry.
